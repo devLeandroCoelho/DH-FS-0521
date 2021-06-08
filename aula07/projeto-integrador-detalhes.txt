@@ -1,0 +1,64 @@
+Projeto Integrador 
+
+O que é o Projeto Integrador ?
+
+  Os alunos são separados em grupos de 3/4 pessoas, e, como uma forma de
+  demonstrar que adquiriram conhecimento a respeito de determinado módulo
+  irão cumprir com alguns desafios impostos a medida que evoluimos no curso.
+  Simulação de um projeto de TCC (Trabalho de Conclusão de Curso) de faculdade
+
+Como funciona ?
+
+  Iremos aplicar metodologias ágeis (que iremos aprender na aula de quarta-feira),
+  modelo waterfall -> só entrega um produto quando está 100% pronto 
+  metodologia ágil -> foca em entregar aos produtos aos poucos , e, desta forma, 
+  consegue aplicar melhorias enquanto os usuários já conseguem utilizar a aplicação.
+  Trabalharemos com entrega de sprints, que nada mais será que um "desafio" focado 
+  em algo que vocês aprenderam em um módulo anterior, para que a equipe possa ser auto
+  gerenciável e consiga distribuir as tarefas da melhor forma entre os integrantes da equipe
+  para cumprir o desafio e entregar dentro do prazo estipulado pelos professores.
+
+Como ocorrerão as entregas ?
+
+  Ao finalizarmos um módulo, será liberado um arquivo contendo algumas instruções e vocês
+  terão que cumprir a sprint dentro do prazo imposto pelos professores.
+  Por exemplo, finalizamos o módulo de frontend (parte I), será liberada a primeira sprint,
+  portanto, sempre que finalizarem um módulo terão o desafio de testar os conhecimentos
+  referentes a este módulo.
+  Por exemplo: Finalizamos o módulo frontend (parte I), teremos uma sprint referente ao 
+  conteúdo que absorvemos/aprendemos neste módulo, depois, teremos um módulo de backend (parte II),
+  ao finalizarmos este módulo de backend (parte II), teremos outra sprint, e assim por diante...
+  Resumindo: vocês NUNCA terão desafios de sprint referentes a conteúdo que ainda não aprederam.
+
+Data das entregas, quando ocorrerão ?
+
+  Sempre que os professores liberarem e derem início a uma sprint, eles terão o compromisso de
+  passar estas datas para os alunos da turma, caso os professores não passem a data de entrega,
+  não esqueçam de cobrá-los.
+
+Como funciona a entrega da sprint ?
+
+  Na data de entrega da sprint, os integrantes do grupo deveram apresentar para a turma o que
+  evoluiram no projeto ao longo daquela determinada sprint. 
+  Lembrando, que para cada equipe será liberado um tempo máximo de 5 minutos por apresentação,
+  em cada entrega de sprint. 
+
+Quais os temas os alunos podem escolher ?
+
+  A Digital House oferece tema livre para a escolha dos alunos. Porém, oferece como sugestão
+  três tipos de projeto: E-commerce, rede social.
+
+Quantas sprints existem ?
+
+  1 - Wireframe
+  2 - Passar do Wireframe para código (passar wireframe para html/css)
+  3 - DER (Diagrama Entidade Relacionamento)
+  4 - Backend
+
+Como será feita a avaliação do aluno para obter certificado ?
+
+  A avaliação será individual, ou seja, além de ter a obrigação de entregar o projeto integrador,
+  atuando de forma ativa e colaborando com os demais integrantes da equipe, o aluno também terá
+  a responsabilidade de cumprir a porcentagem de presença exigida pela instituição (máximo 6 faltas),
+  ter um bom/ótimo aproveitamento dentro dos módulos no Playground.
+  ter uma boa/ótima participação nas aulas "ao vivo".
